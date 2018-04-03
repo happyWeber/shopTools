@@ -1,0 +1,13 @@
+{
+    "name": "lifeintools/shop-tools",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lifeinttools",
+            "email": "bug@lifeintools.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
